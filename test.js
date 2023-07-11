@@ -1,2 +1,2 @@
 console.log("test")
-console.log('extended')
+console.log('another one from f2')
