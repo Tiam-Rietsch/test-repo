@@ -1,2 +1,2 @@
 console.log("test")
-console.log('new branch f1')
+console.log('another one from f1 and f2')
