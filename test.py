@@ -5,4 +5,8 @@ print('test')
 print('Rietsch is cool')
 print('main branch')
 print('test')
-print('hello this is another conflict')
+<<<<<<< HEAD
+print('hello this is a conflict')
+=======
+print('new-hey there')
+>>>>>>> new-feature
